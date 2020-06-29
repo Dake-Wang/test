@@ -1,2 +1,4 @@
 function a
-a=x+y;
+c=1+2;
+
+cc=3;
